@@ -5,6 +5,8 @@ date: "2023-08-28"
 output: word_document
 ---
 
+## See the source code for the original R markdown script.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
